@@ -1,4 +1,4 @@
-# DataInsight_Project
+# Data Insight Project
 
 # Sales and Orders Data Analysis
 
