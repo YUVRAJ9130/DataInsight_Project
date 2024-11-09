@@ -24,14 +24,19 @@ Welcome to the **Sales and Orders Data Analysis** project! This repository provi
 ## Key Code Features
 - **CTE (Common Table Expressions)**: Simplifies and organizes multi-step queries.
 - **Year-over-Year Growth Calculation**:
+### Key Code Features
+- **CTE (Common Table Expressions)**: Simplifies and organizes multi-step queries.
+- **Year-over-Year Growth Calculation**:
   ```sql
   SELECT ROUND(((sales_2023 - sales_2022) / sales_2022) * 100, 2) AS growth_percentage
   FROM cte2;
 
+
 ## Date Formatting for Period Analysis
   ```sql
-  SELECT DATE_FORMAT(order_date, '%Y%m') AS order_year_month
-  FROM orders_table;
+SELECT DATE_FORMAT(order_date, '%Y%m') AS order_year_month
+FROM orders_table;
+```
 
 ## How to Use
 - SQL Script: Load Sales_Analysis.sql into your MySQL environment and execute the queries.
