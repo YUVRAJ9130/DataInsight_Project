@@ -1,6 +1,6 @@
 # Data Insight Project
 
-# Sales and Orders Data Analysis
+# Retail Orders Data Analysis
 
 ## Overview
 Welcome to the **Sales and Orders Data Analysis** project! This repository provides a comprehensive analysis of sales and orders data using SQL and Python. The project features well-structured SQL scripts and an interactive Jupyter Notebook to demonstrate data exploration and analysis.
@@ -56,3 +56,6 @@ FROM orders_table;
 
 ## License
 This project is licensed under the MIT License.
+
+## Acknowledgments
+Data Source: Kaggle’s Retail Orders Dataset
