@@ -9,7 +9,7 @@ Welcome to the **Sales and Orders Data Analysis** project! This repository provi
 - **Data Sources**:
   - `orders.csv`: A CSV file containing detailed order data.
   - `Sales_Analysis.sql`: A SQL script with queries for analyzing sales.
-  - `Orders Data Analysis.ipynb`: A Jupyter Notebook for additional data processing and visualization.
+  - `Orders Data Analysis.ipynb`: A Jupyter Notebook for additional data processing.
 - **Key Operations**:
   - Extracting, cleaning, and transforming data for comprehensive analysis.
   - Calculating year-over-year sales growth and percentage change.
